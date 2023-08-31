@@ -45,9 +45,9 @@ body {
 }
 @media (max-width:920px) {
     .container h1{
-        font-size: 13px;
+        font-size: 25px;
     }
     .tejas{
-        font-size: 8px;
+        font-size: 13px;
     }
 }
